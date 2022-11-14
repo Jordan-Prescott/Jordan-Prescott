@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Jprescott23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11d7CzWwyUszu3PiMGbZUPLSGgWK7gx59/view?usp=sharing](https://drive.google.com/file/d/11d7CzWwyUszu3PiMGbZUPLSGgWK7gx59/view?usp=sharing)
+- 📄 Know about my experiences jordanprescott.co.uk
 
 - ⚡ Fun fact **When I was young I nearly lost my eye! No joke, ask me how it happened.**
 
