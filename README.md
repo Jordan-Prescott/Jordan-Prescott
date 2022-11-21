@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-prescott&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-prescott" /> </p>
 
 - 🔭 I’m currently working on **Flask API**
-- 🌱 I’m currently learning **Machine Learning, Flash Framework**
+- 🌱 I’m currently learning **Machine Learning, Flask Framework**
 - 📝 I regularly write articles on [JordanPrescott.co.uk](JordanPrescott.co.uk)
 - 💬 Ask me about **Anything! I may not know the answer but I like to chat and learn!**
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jordan-prescott-594761110/)
