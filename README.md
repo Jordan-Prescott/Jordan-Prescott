@@ -8,5 +8,5 @@
 - 📝 I regularly write articles on [JordanPrescott.co.uk](JordanPrescott.co.uk)
 - 💬 Ask me about **Anything! I may not know the answer but I like to chat and learn!**
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jordan-prescott-594761110/)
-- 📄 Know about my experiences jordanprescott.co.uk
+- 📄 Know about my experiences [JordanPrescott.co.uk](JordanPrescott.co.uk)
 - ⚡ Fun fact **When I was young I nearly lost my eye! No joke, ask me how it happened.**
