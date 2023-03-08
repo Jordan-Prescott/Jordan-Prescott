@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-prescott&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-prescott" /> </p>
 
-- 🔭 I’m currently working on **Automating My Life**
-- 🌱 I’m currently learning **Machine Learning, Flask Framework, Python Automation**
+- 🔭 I’m currently working on **Automating My Life, Visualisation of Conversational AI**
+- 🌱 I’m currently learning **Machine Learning, Python Automation, Web Dev**
 - 📝 I regularly write articles on [Jordan-Prescott.com](https://jordanprescott.super.site/)
 - 💬 Ask me about **Anything! I may not know the answer but I like to chat and learn!**
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jordan-prescott-594761110/)
