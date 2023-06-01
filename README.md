@@ -13,4 +13,4 @@
  
  <h1> 📊 Statistics </h1>
  
- ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Prescott&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Prescott&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Prescott&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Prescott&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
