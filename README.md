@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-prescott&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-prescott" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Prescott&show_icons=true)
 
 - 🔭 I’m currently working on **Automating My Life, Visualisation of Conversational AI, and Odin API Python Module**
 - 🌱 I’m currently learning **Machine Learning, Python Automation, Web Dev**
