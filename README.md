@@ -12,6 +12,7 @@
 - ⚡ Fun fact **When I was young I nearly lost my eye! No joke, ask me how it happeneda.**
  
  <h2 Statisctics>
-<p> ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Prescott&show_icons=true) </p>
+ 
+ ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Prescott&show_icons=true)
  
 <p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
