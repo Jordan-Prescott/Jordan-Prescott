@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
-<h3 align="center">Senior AI Tech @ FourteenIP | Studied Software Engineering at Manchester Met University.</h3>
+<h3 align="center">Senior AI Tech @ FourteenIP | BSc Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-prescott&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-prescott" /> </p>
 
