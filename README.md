@@ -15,6 +15,6 @@
 <br />
 
 ## 🔗 Let's Connect
-⚫ [Website](https://jordan-prescott.com)
-🟦 [LinkinIn](https://www.linkedin.com/in/jordan-prescott/)
-⬛ [Medium](https://medium.com/@Jordan-Prescott)
+- ⚫ [Website](https://jordan-prescott.com)
+- 🟦 [LinkinIn](https://www.linkedin.com/in/jordan-prescott/)
+- ⬛ [Medium](https://medium.com/@Jordan-Prescott)
