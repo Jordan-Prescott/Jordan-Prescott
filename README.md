@@ -1,1 +1,1 @@
-![Guthub Cover](./assets/cover.jpeg)
+![Guthub Cover](./cover.png.png)
