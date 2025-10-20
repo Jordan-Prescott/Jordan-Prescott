@@ -1,2 +1,1 @@
-![Guthub Cover](./twitter-image.png)
-[MM Here](https://github.com/minimal-mind)
+[Minimal Mind](https://github.com/minimal-mind)
