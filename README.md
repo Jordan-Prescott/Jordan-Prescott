@@ -1,1 +1,2 @@
-[Minimal Mind](https://github.com/minimal-mind)
+![twitter_cover](./twitter_header.png)
+>>> [Minimal Mind](https://github.com/minimal-mind)
